@@ -3,9 +3,12 @@
   "features": [
     {
       "type": "Feature",
+
       "properties": {
-	"Description":"The David Triangle"	
+	"Description":"The David Triangle",
+	"name":"test"	
 	},
+
       "geometry": {
         "type": "Polygon",
         "coordinates": [

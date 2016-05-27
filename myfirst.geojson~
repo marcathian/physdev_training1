@@ -3,7 +3,14 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+<<<<<<< HEAD
+      "properties": {
+	"Description":"The David Triangle",
+	"name":"test"	
+	},
+=======
+      "properties": {"name":"test"},
+>>>>>>> c5aef6063d82c366716d65f85be888985e4fccac
       "geometry": {
         "type": "Polygon",
         "coordinates": [
