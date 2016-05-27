@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"name":"test"},
+      "properties":{"name":"midwestern"},
       "geometry": {
         "type": "Point",
         "coordinates": [
